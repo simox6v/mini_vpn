@@ -1,0 +1,12 @@
+{
+    "private_key": "6b3865f721a39f95dc28ee88e66dc5ae5b42fce0d8f7881b222d0edc74d1846e",
+    "virtual_ip": "10.0.0.3/24",
+    "listen_port": 51822,
+    "peer": {
+        "public_key": "fa241ff2ee7172a60afbd6480202ce3e0da4d15359f7fb422da109e248b165dc",
+        "endpoint": "127.0.0.1:51820",
+        "allowed_ips": [
+            "10.0.0.0/24"
+        ]
+    }
+}

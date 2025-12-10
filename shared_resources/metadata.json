@@ -1,0 +1,38 @@
+{
+    "res_1765237319_3": {
+        "filename": "Capture.PNG",
+        "original_name": "Capture.PNG",
+        "path": "shared_resources\\Capture.PNG",
+        "size": 5330,
+        "description": "",
+        "added_at": "2025-12-09T00:41:59.403081",
+        "type": "image"
+    },
+    "res_1765238041_4": {
+        "filename": "Rapport d'Analyse D\u00e9taill\u00e9e _ Application Web de Gestion des Notes d'\u00c9tudiants.md",
+        "original_name": "Rapport d'Analyse D\u00e9taill\u00e9e _ Application Web de Gestion des Notes d'\u00c9tudiants.md",
+        "path": "shared_resources\\Rapport d'Analyse D\u00e9taill\u00e9e _ Application Web de Gestion des Notes d'\u00c9tudiants.md",
+        "size": 16863,
+        "description": "",
+        "added_at": "2025-12-09T00:54:01.654479",
+        "type": "text"
+    },
+    "res_1765238688_5": {
+        "filename": "sphar.png",
+        "original_name": "sphar.png",
+        "path": "shared_resources\\sphar.png",
+        "size": 5185,
+        "description": "",
+        "added_at": "2025-12-09T01:04:48.808778",
+        "type": "image"
+    },
+    "res_1765239823_6": {
+        "filename": "king_of_vikings_fight_king_of_turcs_on_the_moon__2977865870.png",
+        "original_name": "king_of_vikings_fight_king_of_turcs_on_the_moon__2977865870.png",
+        "path": "shared_resources\\king_of_vikings_fight_king_of_turcs_on_the_moon__2977865870.png",
+        "size": 747745,
+        "description": "",
+        "added_at": "2025-12-09T01:23:43.533670",
+        "type": "image"
+    }
+}
